@@ -1,4 +1,4 @@
-<h1 align="center">🌻Soph🌻</h1>
+<h1 align="center">Soph</h1>
 
 Computer Science senior undergraduate student with a wide variety in software development. Great at communicating with others. Looking forward to grow
 professionally and collaborate with experienced team members.
@@ -64,5 +64,3 @@ professionally and collaborate with experienced team members.
 ## Connect with me
 <a href="mailto:sofia.nikolia@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HridoyHazard"/></a>
 <a href="https://www.linkedin.com/in/sofia-maria-nikolia-31948b270" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="hridoy.the.hazard10"/></a>
-<a href="https://instagram.com/hridoyalhazard" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="hridoyalhazard"/></a>
-<a href=" discordapp.com/users/4954" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="hridoyalhazard"/></a>
